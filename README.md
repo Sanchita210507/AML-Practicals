@@ -1,3 +1,2 @@
 # AML Practicals 
-Name: Sanchita Kulkarni
-\nRoll No: 8
+Name: Sanchita Kulkarni, Roll No: 8
